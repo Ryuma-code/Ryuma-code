@@ -1,7 +1,7 @@
 # Hello everyone!
 
 
-Introducing my name **Nurian**.< br>
+Introducing my name **Nurian**.
 
 
 I am a **Student** in [Dicoding](https://www.dicoding.com/).
