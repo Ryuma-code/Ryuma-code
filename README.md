@@ -1,7 +1,10 @@
-# Halo semua! 
+# Hello everyone!
 
-Perkenalkan nama saya **Nurian**.<br>
 
-Saya seorang **Pelajar** di [Dicoding](https://www.dicoding.com/).<br>
+Introducing my name**Nurian**.< br>
 
-Saya seorang siswa SMK di indonesia.
+
+I am a**Student** in [Dicoding](https://www.dicoding.com/).
+
+
+I am a vocational student in Indonesia.
