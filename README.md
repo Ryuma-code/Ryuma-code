@@ -66,6 +66,14 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
 
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ryuma-code&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ryuma-code&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+
 
 ### 🏆 GitHub Trophies  
 
