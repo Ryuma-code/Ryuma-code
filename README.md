@@ -1,9 +1,16 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A277FF&size=28&center=true&vCenter=true&lines=Hi%2C+I'm+Ryan;ML+Engineer;Data+Scientist;Web+Dev" />
-</p>
+<div align="center">
 
-<!-- RGB Animated Line -->
+  <img src="https://media.giphy.com/media/26n7bT0i90M43pLlm/giphy.gif" width="150" />
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23A277FF&size=28&center=true&vCenter=true&lines=Hi%2C+I'm+Ryan;ML+Engineer;Data+Scientist;Web+Dev" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Ngoding%20Santai-blue?style=for-the-badge&logo=visualstudiocode" />
+    <img src="https://img.shields.io/badge/Currently%20Learning-markdown-red?style=for-the-badge&logo=go" />
+  </p>
+</div>
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
@@ -14,29 +21,44 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 
 > “Code is a reflection of your mind — make it disciplined.”
 
-<!-- RGB Animated Line -->
 <p align="center">
   <img src="assets/animated-rgb-line1.svg" width="100%" />
 </p>
 
 ### 🧠 Tech Stack  
 
-**Languages**  
-`Python` · `JavaScript` · `TypeScript` · `C#` · `Go`  
+#### 💻 Languages & Runtime
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
-**ML/AI**  
-`TensorFlow` · `PyTorch` · `Scikit-learn` · `XGBoost` · `Pandas`  
+#### 🤖 ML/AI & Data Science
+<p>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-**Web Dev**  
-`React` · `Next.js` · `Node.js` · `Express` · `TailwindCSS`  
+#### 🌐 Web Development
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
-**Game**  
-`Unity` · `C#`  
+#### 🎮 Game Dev & Tools
+<p>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-20232A.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-**Tools**  
-`Git` · `Docker` · `Linux` · `VSCode` · `Figma`
-
-<!-- RGB Animated Line -->
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
