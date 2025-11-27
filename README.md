@@ -66,9 +66,9 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 
 ### 🔥 Streak  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ryuma-code&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuma-code&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 <!-- RGB Animated Line -->
 <p align="center">
