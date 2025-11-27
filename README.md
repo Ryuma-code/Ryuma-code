@@ -37,11 +37,23 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 </p>
 
 #### 🤖 ML/AI & Data Science
+
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+#### 📊 Data & Utilities Libraries
+<p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img alt="Scikit-image" src="https://img.shields.io/badge/Scikit--Image-F05423.svg?style=for-the-badge&logo=scikit-image&logoColor=white" />
+  <img alt="Pillow" src="https://img.shields.io/badge/Pillow-4A633D.svg?style=for-the-badge&logo=pillow&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557A.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img alt="Tqdm" src="https://img.shields.io/badge/Tqdm-333333.svg?style=for-for-the-badge&logo=tqdm&logoColor=white" />
 </p>
 
 #### 🌐 Web Development
