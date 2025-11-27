@@ -19,7 +19,6 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img src="assets/animated-rgb-line1.svg" width="100%" />
 </p>
 
-
 ### 🧠 Tech Stack  
 
 **Languages**  
@@ -73,42 +72,15 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ryuma-code&layout=compact&theme=tokyonight" height="160" />
 </p>
 
-
-
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true" />
-</p>
-
-<!-- RGB Animated Line -->
-<p align="center">
-  <img src="assets/animated-rgb-line1.svg" width="100%" />
-</p>
-
-
 ### 🔥 Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Ryuma-code&theme=tokyonight" />
 </p>
 
 <!-- RGB Animated Line -->
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
-</p>
-
-
-### 💬 Fun Facts  
-
-- I love guitars 🎸  
-- Interested in philosophy, logic, & psychology 🧩  
-- Sering bengong mikirin AI dan market crypto 😗  
-- Linux enjoyer (Fedora supremacy ✨)
-
-<!-- RGB Animated Line -->
-<p align="center">
-  <img src="assets/animated-rgb-line1.svg" width="100%" />
 </p>
 
 ### 🌐 Connect with Me  
