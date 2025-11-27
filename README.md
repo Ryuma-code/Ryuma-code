@@ -78,8 +78,7 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 ### 🌐 Connect with Me  
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="mailto:ryumacode@gmail.com"><img src="https://img.shields.io/badge/Email-%23E1306C.svg?style=for-the-badge&logo=Email&logoColor=white"/></a>
 </p>
 
 <picture>
