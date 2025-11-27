@@ -41,19 +41,18 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-#### 📊 Data & Utilities Libraries
+#### 📊 Data, Preprocessing & Viz Libraries
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557A.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3C9C8C.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="Scikit-image" src="https://img.shields.io/badge/Scikit--Image-F05423.svg?style=for-the-badge&logo=scikit-image&logoColor=white" />
-  <img alt="Pillow" src="https://img.shields.io/badge/Pillow-4A633D.svg?style=for-the-badge&logo=pillow&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557A.svg?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img alt="Tqdm" src="https://img.shields.io/badge/Tqdm-333333.svg?style=for-for-the-badge&logo=tqdm&logoColor=white" />
 </p>
 
 #### 🌐 Web Development
@@ -67,8 +66,14 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 #### 🎮 Game Dev & Tools
 <p>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-20232A.svg?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+**Tools** 
+<p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F37626.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 <p align="center">
