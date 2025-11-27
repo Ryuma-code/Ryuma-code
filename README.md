@@ -76,6 +76,7 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
+<!-- RGB Animated Line -->
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
