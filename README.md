@@ -49,11 +49,10 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 
 <!-- RGB Animated Line -->
 <p align="center">
-  <img src="assets/animated-rgb-line1.svg" width="100%" />
+  <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
 
-
-#### 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ryuma-code&show_icons=true&theme=tokyonight" height="160" />
@@ -63,13 +62,6 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 <!-- RGB Animated Line -->
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
-</p>
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ryuma-code&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ryuma-code&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ### 🔥 Streak  
