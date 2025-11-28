@@ -16,7 +16,7 @@
 </p>
 
 ### 🌙 About Me  
-Hi there! Aku Ryan developer yang suka ngulik **Machine Learning**, **Web Dev**, dan **Game Dev**.  
+Hi there! Aku Ryan developer yang suka ngulik **Machine Learning**, **Web Dev**.  
 Aku suka ngebangun sistem yang *smart*, clean, dan efisien.  
 
 > “Code is a reflection of your mind — make it disciplined.”
