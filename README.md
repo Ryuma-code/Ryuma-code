@@ -121,13 +121,12 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <a href="mailto:ryumacode@gmail.com"><img src="https://img.shields.io/badge/Email-%23E1306C.svg?style=for-the-badge&logo=Email&logoColor=white"/></a>
 </p>
 
+<!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 <p align="center">
   <i>Thanks for stopping by... jangan lupa kasih ⭐ kalo kamu suka projectku</i>
