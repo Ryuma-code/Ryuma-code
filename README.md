@@ -83,9 +83,9 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 
 ### 🛠️ Featured Projects  
 
-- 🚀 **Moneasy** — Financial Planner w/ AI-based financial health scoring  
-- 🤖 **XGBoost Crypto Predictor** — Model prediksi harga berbasis fitur market & macro  
-- 🎮 **Unity Experimental Game** — Playground buat AI behavior & mekanik game  
+- 🚀 [**Moneasy**](https://github.com/Ryuma-code/nama-repo-moneasy) — Financial Planner w/ AI-based financial health scoring
+- 🤖 [**XGBoost Crypto Predictor**](https://github.com/Ryuma-code/nama-repo-crypto) — Model prediksi harga berbasis fitur market & macro
+- 🎮 [**Unity Experimental Game**](https://github.com/Ryuma-code/nama-repo-unity) — Playground buat AI behavior & mekanik game
 
 <!-- RGB Animated Line -->
 <p align="center">
