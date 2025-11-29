@@ -17,7 +17,7 @@
 </p>
 
 ### 🌙 About Me  
-Hi! I'm Ryan — a developer who loves exploring **Machine Learning** and **Web Development**.  
+Hi! I'm Ryan, a developer who loves exploring **Machine Learning** and **Web Development**.  
 I enjoy building systems that are *smart*, clean, and efficient.
 
 > “Code is a reflection of your mind — make it disciplined.”
