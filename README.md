@@ -129,7 +129,7 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 </picture>
 
 <!--Snake -->
-<img src="https://raw.githubusercontent.com/Ryuma-code/Ryuma-code/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Ryuma-code/Ryuma-code/output/snake.svg" alt="Snake animation" /> -->
 
 <!-- Closing -->
 <p align="center">
