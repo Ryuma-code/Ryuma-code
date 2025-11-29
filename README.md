@@ -128,6 +128,10 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ryuma-code/Ryuma-code/output/pacman-contribution-graph.svg">
 </picture>
 
+<!--Snake -->
+<img src="https://raw.githubusercontent.com/Ryuma-code/Ryuma-code/output/snake.svg" alt="Snake animation" />
+
+<!-- Closing -->
 <p align="center">
   <i>Thanks for stopping by... jangan lupa kasih ⭐ kalo kamu suka projectku</i>
 </p>
