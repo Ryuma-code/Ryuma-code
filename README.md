@@ -84,8 +84,7 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 ### 🛠️ Featured Projects  
 
 - 🚀 [**Moneasy**](https://github.com/LazyPota/DicodingCapstone) — Financial Planner w/ AI-based financial health scoring
-- 🤖 [**XGBoost Crypto Predictor**](https://github.com/Ryuma-code/nama-repo-crypto) — Model prediksi harga berbasis fitur market & macro
-- 🎮 [**Unity Experimental Game**](https://github.com/Ryuma-code/nama-repo-unity) — Playground buat AI behavior & mekanik game
+- 🤖 **XGBoost Crypto Predictor** — Model prediksi harga berbasis fitur market & macro
 
 <!-- RGB Animated Line -->
 <p align="center">
