@@ -7,17 +7,18 @@
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/Status-Ngoding%20Santai-blue?style=for-the-badge&logo=visualstudiocode" />
-    <img src="https://img.shields.io/badge/Currently%20Learning-markdown-red?style=for-the-badge&logo=go" />
+    <img src="https://img.shields.io/badge/Status-Coding%20Chill-blue?style=for-the-badge&logo=visualstudiocode" />
+    <img src="https://img.shields.io/badge/Currently%20Learning-Markdown-red?style=for-the-badge&logo=go" />
   </p>
 </div>
+
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
 
 ### 🌙 About Me  
-Hi man! Aku Ryan developer yang suka ngulik **Machine Learning**, **Web Dev**.  
-Aku suka ngebangun sistem yang *smart*, clean, dan efisien.  
+Hi! I'm Ryan — a developer who loves exploring **Machine Learning** and **Web Development**.  
+I enjoy building systems that are *smart*, clean, and efficient.
 
 > “Code is a reflection of your mind — make it disciplined.”
 
@@ -45,7 +46,7 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-#### 📊 Data, Preprocessing & Viz Libraries
+#### 📊 Data, Preprocessing & Visualization Libraries
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -68,7 +69,7 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img alt="Unity" src="https://img.shields.io/badge/Unity-20232A.svg?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
-**Tools** 
+**Tools**  
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
@@ -76,18 +77,16 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-<!-- RGB Animated Line -->
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
 
 ### 🛠️ Featured Projects  
 
-- 🚀 [**Moneasy**](https://github.com/LazyPota/DicodingCapstone) — Financial Planner,With AI-based financial health scoring
-- [**EcotionBudy**](https://github.com/Ryuma-code/SFT-CreaftionStudio) — IoT with Computer Vision use ESP-32-Cam for Clasification and Automatic Trash-can
-- 🤖 **XGBoost Crypto Predictor** — Model prediksi harga berbasis fitur market & macro
+- 🚀 [**Moneasy**](https://github.com/LazyPota/DicodingCapstone) — Financial Planner with AI-based financial health scoring  
+- 🤖 [**EcotionBuddy**](https://github.com/Ryuma-code/SFT-CreaftionStudio) — IoT + Computer Vision using ESP32-CAM for trash classification & auto trash-bin  
+- 📈 **XGBoost Crypto Predictor** — Market & macro feature–based crypto price forecasting model
 
-<!-- RGB Animated Line -->
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
@@ -99,7 +98,6 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ryuma-code&layout=compact&theme=tokyonight" height="160" />
 </p>
 
-<!-- RGB Animated Line -->
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
@@ -110,7 +108,6 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuma-code&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<!-- RGB Animated Line -->
 <p align="center">
   <img src="assets/animated-rgb-line.svg" width="100%" />
 </p>
@@ -131,7 +128,6 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 <!--Snake -->
 <!-- <img src="https://raw.githubusercontent.com/Ryuma-code/Ryuma-code/output/snake.svg" alt="Snake animation" /> -->
 
-<!-- Closing -->
 <p align="center">
-  <i>Thanks for stopping by... jangan lupa kasih ⭐ kalo kamu suka projectku</i>
+  <i>Thanks for stopping by... don't forget to leave a ⭐ if you like my projects!</i>
 </p>
