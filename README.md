@@ -83,7 +83,8 @@ Aku suka ngebangun sistem yang *smart*, clean, dan efisien.
 
 ### 🛠️ Featured Projects  
 
-- 🚀 [**Moneasy**](https://github.com/LazyPota/DicodingCapstone) — Financial Planner w/ AI-based financial health scoring
+- 🚀 [**Moneasy**](https://github.com/LazyPota/DicodingCapstone) — Financial Planner,With AI-based financial health scoring
+- [**EcotionBudy**](https://github.com/Ryuma-code/SFT-CreaftionStudio) IoT with Computer Vision use ESP-32-Cam for Clasification and Automatic Trash-can
 - 🤖 **XGBoost Crypto Predictor** — Model prediksi harga berbasis fitur market & macro
 
 <!-- RGB Animated Line -->
