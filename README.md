@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp0djZtbWR6azVxamQzMWVkczQ0dTd1aTMzb28wbnN0cWgzYXVobiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif" width="200" />
+ 
   
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?color=%23A277FF&size=28&center=true&vCenter=true&lines=Hi%2C+I'm+Ryan;ML+Engineer;Data+Scientist;Web+Dev" />
